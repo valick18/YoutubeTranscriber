@@ -5,4 +5,4 @@ In addition, you need to install ffmpeg on your computer and add it to the envir
 
 
 
-[![Watch the video]([https://youtu.be/T-D1KVIuvjA](https://i.ytimg.com/vi/04X_NIJTy5s/hqdefault.jpg)](https://www.youtube.com/watch?v=04X_NIJTy5s)
+[![Watch the video](https://i.ytimg.com/vi/04X_NIJTy5s/hqdefault.jpg)](https://www.youtube.com/watch?v=04X_NIJTy5s)
